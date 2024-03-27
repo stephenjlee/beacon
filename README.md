@@ -1,3 +1,3 @@
 # beacon
 
-This repo will be available very soon.
+More documentation will be available very soon.

@@ -1,0 +1,42 @@
+name: beacon
+channels:
+  - plotly
+  - anaconda
+  - conda-forge
+  - defaults
+  - numba
+dependencies:
+  - boto3
+  - cudatoolkit=11.2.2
+  - cudnn
+  - fiona
+  - gdal
+  - geopandas=0.11.0
+  - geopandas-base
+  - pyrosm
+  - matplotlib
+  - matplotlib-base
+  - numpy
+  - numba
+  - pandas>=1.1
+  - datatable
+  - plotly
+  - proj
+  - python=3.8
+  - python-dotenv
+  - rasterio
+  - scikit-learn
+  - scipy
+  - shapely
+  - sphinx
+  - utm
+  - xlrd
+  - pip
+  - pip:
+    - opencv-python
+    - pip
+    - seaborn
+    - landez
+    - tensorboard==2.9.1
+    - tensorflow==2.9.1
+    - tensorflow-probability==0.17.0
